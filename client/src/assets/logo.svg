@@ -1,0 +1,7 @@
+<svg width="132" height="30" viewBox="0 0 132 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 10H22L20 22H8L6 10Z" fill="#4FBF8B"/>
+  <path d="M10 10V7C10 5.34315 11.3431 4 13 4C14.6569 4 16 5.34315 16 7V10" stroke="#4FBF8B" stroke-width="2"/>
+  <rect x="11" y="14" width="6" height="1.5" rx="0.75" fill="white"/>
+  
+  <text x="32" y="22" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-weight="800" font-size="20" fill="#4FBF8B" style="white-space: pre;">GROCIO</text>
+</svg>
