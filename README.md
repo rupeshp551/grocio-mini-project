@@ -1,10 +1,10 @@
-# 🛒 Grocio - Grocery E-Commerce Platform
+# Grocio - Grocery E-Commerce Platform
 
 Grocio is a full-stack MERN (MongoDB, Express, React, Node.js) application built for seamless grocery shopping and inventory management.
 
 ---
 
-## 🛠️ Project Setup
+## Project Setup
 
 ### 1. Prerequisites
 
@@ -40,7 +40,7 @@ SELLER_EMAIL = "admin@example.com"
 SELLER_PASSWORD = "your_password"
 ```
 
-## ✨ Project Highlights & Features
+## Project Highlights & Features
 
 * **User Authentication:** Secure login using **JWT Tokens.**
 
@@ -50,7 +50,7 @@ SELLER_PASSWORD = "your_password"
 
 * **Responsive UI:** Built with **React** and **Vite.**
 
-## 🚀 Running the App
+## Running the App
 
 1. **Start Backend:** In `server`, run `npm run server`.
 2. **Start Frontend:** In `client`, run `npm run dev`.
